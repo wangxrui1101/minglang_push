@@ -1,0 +1,3 @@
+[submodule "Goodbye1"]
+	path = Goodbye1
+	url = git@github.com:wangxrui1101/submodule.git
